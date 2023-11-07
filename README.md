@@ -1,2 +1,2 @@
 # Age-calculator
-Age calculator
+An age calculator webpage is a simple and user-friendly online tool that allows users to determine their age or the age of someone else quickly and accurately. Users typically input the birthdate, and the calculator instantly computes the age, often providing results in years, months, and days. It's a handy tool for anyone looking to calculate their age, plan for special occasions, or check the age of family members or friends. Age calculators are commonly found online and are a convenient way to save time when age-related information is needed.
